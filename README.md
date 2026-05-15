@@ -293,7 +293,9 @@ npm start
 
 ### 6.5 Versión desplegada
 
-`[POR COMPLETAR — URL de Vercel una vez deployado]`
+**https://pl-solver.vercel.app/**
+
+Accesible públicamente, sin login. La aplicación se sirve de forma estática desde Vercel (Hobby plan, gratuito) y se redeploya automáticamente con cada `git push origin main`.
 
 ---
 
@@ -332,7 +334,7 @@ npm start
 | Modo claro / oscuro | Completo |
 | Build de producción | Completo (4 páginas estáticas) |
 | Informe técnico | Este documento |
-| Deploy público | `[POR COMPLETAR]` |
+| Deploy público | Completo — https://pl-solver.vercel.app/ |
 | Capturas de prueba | `[A INCLUIR EN /screenshots]` |
 
 ---

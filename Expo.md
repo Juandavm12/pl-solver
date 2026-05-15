@@ -12,7 +12,7 @@ Este documento es la hoja de ruta para la demostración en vivo. Está pensado p
 
 Hacer al menos **10 minutos antes** de la presentación:
 
-- [ ] Browser abierto en la URL pública de Vercel y página cargada.
+- [ ] Browser abierto en **https://pl-solver.vercel.app/** y página cargada.
 - [ ] Pestaña adicional con `http://localhost:3000` corriendo (`npm run dev`) como respaldo.
 - [ ] Modo dispositivo del navegador en **escritorio normal** (no responsive).
 - [ ] Zoom del navegador al 100% (Ctrl/Cmd + 0).
